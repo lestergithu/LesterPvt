@@ -2,9 +2,9 @@
     "serverstatus":"false",
     "noticemode":"true",
     "dataclearmode":"false",
-    "servermeassage":"Under Maintenance For Some Days",
+    "servermeassage":"Server Down",
     "opentime":" ⚡",
     "libs":"https://github.com/lestergithu/LesterPvt/raw/refs/heads/main/libLesterMods.zip",
-    "notice_title":"Server Down ",
+    "notice_title":"4.5.0 Integrity Bypassed ",
     "notice_body":""
 }
